@@ -9,7 +9,7 @@
     <version>1.2-SNAPSHOT</version>
   </parent>
 
-  <groupId>com.sonarsource.scm.mercurial</groupId>
+  <groupId>org.sonarsource.scm.mercurial</groupId>
   <artifactId>its</artifactId>
   <name>Mercurial :: Integration Tests</name>
 
