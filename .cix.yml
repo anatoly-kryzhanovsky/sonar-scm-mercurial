@@ -6,6 +6,8 @@ SQ_VERSION:
   - DEV
   - 5.0.1
 
+SLAVE:
+  - linux
 
 exclude:
   
