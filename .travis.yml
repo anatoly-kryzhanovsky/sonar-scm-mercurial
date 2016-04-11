@@ -13,7 +13,11 @@ addons:
 script:
   - hg --version
   - ./travis.sh
-                                                                                                                                                                 
+
+env:                                                                                                                                                             
+  matrix:                                                                                                                                                        
+    - TEST=CI
+
 cache:
   directories:
     - '$HOME/.m2/repository'
